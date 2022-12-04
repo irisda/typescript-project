@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "rootDir": "fundamentals",
+    "outDir": "dist",
+    "module": "CommonJS",
+    "baseUrl": "src",
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "noEmitOnError": true,
+    "strictNullChecks": true,
+    "removeComments": true
+
+  },
+  "files": [
+    "fundamentals/type.ts"
+  ]
+}
